@@ -1,0 +1,17 @@
+1 - Criar repositório no GitHub
+2 - Copiar (clonar) link HTPPS (em CODE)
+3 - Abrir uma pasta no PC e executar o GIT BASH
+4 - Comando: git clone e colar link do repositório; dar enter
+5 - Comando: cd e copiar e colar o link do repositório já no computador; dar enter. 
+Já vai estar trabalhando dentro do arquivo que está no pc
+6 - Comando: git status para verificar o status do arquivo
+7 - Criar pasta no repósitório (presente no computador)
+8 - Comando: git status -> O sistema vai verificar que tem uma nova pasta no repositório
+9 - Comando: git add . -> Esse comando adiciona/considera todos os arquivos do repositório
+10 - Comando: git status -> o nome do arquivo de anotações fica verde, mostrando que esse arquivo já está sendo considerado
+Para enviar tudo para o Git Hub:
+11 - Comando: git commit -m "Título"; Neste caso o título será "Inclusão de anotações do curso Git/GitHub"
+12 - Comando: git status para verificar o status da pasta
+13 - Para enviar para a nuvem precisa dar um push
+14 - Comando: git push origin main
+15 - Atualiza a página do GitHub e as anotações já aparecem lá no repositório.
